@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/smec-project/.github/main/profile/assets/img/smec-logo-text.png" alt="logo" width="250" margin="10px"></img>
+</div>
 <!--
 
 **Here are some ideas to get you started:**
