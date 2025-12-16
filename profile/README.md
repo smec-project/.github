@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/smec-project/.github/main/profile/assets/img/smec-logo-vertical.png" alt="logo" width="250" margin="10px"></img>
+<img src="https://raw.githubusercontent.com/smec-project/.github/main/profile/assets/img/smec-logo-vertical.png" alt="logo" width="100" margin="0px"></img>
 </div>
 <!--
 
