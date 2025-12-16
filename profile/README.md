@@ -1,6 +1,12 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/smec-project/.github/main/profile/assets/img/smec-logo-vertical.png" alt="logo" width="100" margin="0px"></img>
-</div>
+</div>  
+
+***
+SMEC is a practical, SLO-aware, resource-scheduling framework for cellular multi-access edge computing.  
+This organization contains repositories for SMEC's RAN and edge scheduler, client and server-side library, and example applications.
+
+
 <!--
 
 **Here are some ideas to get you started:**
