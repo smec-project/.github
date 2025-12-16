@@ -1,19 +1,2 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/smec-project/.github/main/profile/assets/img/smec-logo-vertical.png" alt="logo" width="80" margin="0px"></img>
-</div>  
-
-***
 SMEC is a practical, SLO-aware, resource-scheduling framework for cellular multi-access edge computing.  
 This organization contains repositories for SMEC's RAN and edge scheduler, client and server-side library, and example applications.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
